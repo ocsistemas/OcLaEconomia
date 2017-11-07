@@ -7,7 +7,5 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	Prueba2
-	Cambio2
 </body>
 </html>
