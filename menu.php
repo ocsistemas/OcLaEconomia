@@ -3,7 +3,8 @@
 //MODIFICADO: LEONARDO 10/10/2017 09:10 AM,MODIFICACION DE ENLACE DE CIRCULARES
 //MODIFICADO: LEONARDO 20/09/2017 10:53 AM,MODIFICACION DE ENLACE DE NUEVAS TARES
 //MODIFICADO: NELSON 27/09/2017 14:10 PMM,OCULTAR aMIGO SECRETO
-//MODIFICADO: leonardo 28/09/2017 14:19 PM,CIRCULARE
+
+//prueba git
 session_start(); 
 //require('../bodega/conexion/conexion.php');
 include("../virtualmax/conexion/conexion.php");
