@@ -2614,7 +2614,7 @@ function mueveReloj(){
                 value="<?php $horafecha= date ('h:i d-m-Y');?>" onfocus="window.document.form_reloj.fechahora.blur()" style="background:#09F;  color:#FFF;">
          </div> 
          
-	  </form> 
+	  </form> a
    	 
       </p>
       <p align="center">Diseño: Departamento Tecnológico
