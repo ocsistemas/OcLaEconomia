@@ -5,6 +5,7 @@
 //MODIFICADO: NELSON 27/09/2017 14:10 PMM,OCULTAR aMIGO SECRETO
 
 //prueba git
+
 session_start(); 
 //require('../bodega/conexion/conexion.php');
 include("../virtualmax/conexion/conexion.php");
@@ -2624,4 +2625,5 @@ function mueveReloj(){
 var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1", {defaultTab:14});
   </script>
 </body>
+
 </html>
